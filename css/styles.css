@@ -1,0 +1,17 @@
+.intro {
+  font-family: sans-serif;
+  color: #736f4c;
+  text-align: center;
+}
+
+.columns {
+  width: 400px;
+  float: left;
+  text-align: center;
+  font-family: sans-serif;
+  color: #8caeb0;
+}
+
+img.main {
+  width: 1200px;
+}
